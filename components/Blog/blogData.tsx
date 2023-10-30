@@ -11,7 +11,7 @@ export interface Blog {
 const BlogData: Blog[] = [
   {
     _id: 1,
-    mainImage: "/images/hero/PhotoGrid_1457165356911.jpg",
+    mainImage: "/images/blog/PhotoGrid_1457165356911.jpg",
     title: "Sungai Ambangah",
     metadata:
       "Sungai Ambangah, sungai ini adalah sungai pembatas antara Desa Sungai Ambangah dengan Desa Madu Sari pada beberapa tahun yang lalu sungai ini sebagai jalur utama.",
